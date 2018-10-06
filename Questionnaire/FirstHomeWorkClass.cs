@@ -29,7 +29,7 @@ namespace Questionnaire
             string b = Console.ReadLine();
             Console.WriteLine($"Value of variables: a = {a}, b = {b} ");
             swap(a, b);
-            Console.WriteLine("5._______________________________________________________________________");
+            Console.WriteLine("5.________________________________________________________________________");
             Console.SetCursorPosition(40, Console.CursorTop + 3);
             Console.WriteLine("Archil Odzeli, Saint-Petersburg");
 
